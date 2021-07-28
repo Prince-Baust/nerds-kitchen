@@ -34,6 +34,9 @@ img {
 
 .top-section {
     display: flex;
+    background-image: url("images/shapes/top-banner.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .half-width {
